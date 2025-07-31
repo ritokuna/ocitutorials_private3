@@ -56,7 +56,7 @@ hugo server
 
 上記のコマンドはデフォルトでホットリロードされるようになっているが、Windows上のDev Containersで実行するとこの機能は正常に働かないことに留意しておく。（原因：https://github.com/microsoft/WSL/issues/4739）  
 
-その他、`hugo server`コマンドオプションは以下リンクを参照  
+その他、`hugo server`コマンドオプションは以下リンクを参照。
 + https://gohugo.io/commands/hugo_server/
 
 
